@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # App Academy Work
 
 This repo contains all of my learnings and projects completed during my time as a student at App Academy, save for my final two capstone projects.
@@ -93,3 +94,9 @@ For each week, I highlight some of the projects I worked on for the week to soli
   * Capstone projects:
   * Versa (see http://github.com/rrzein/versa)
   * inlike (see http://github.com/rrzein/inlike)
+=======
+rrzein.github.io
+================
+
+Ricky Rizal Zein
+>>>>>>> 67ff93c02834969056480e4bf9eaba0019af27c9
